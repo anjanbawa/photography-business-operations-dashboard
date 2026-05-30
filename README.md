@@ -1,7 +1,7 @@
 # Photography Business Operations Dashboard
 
 **Tool:** Microsoft Excel | **Domain:** Business Operations & Project Management  
-**Context:** The Timeless Pictures — Jamshedpur, India (2025)
+**Context:** The Timeless Pictures - Jamshedpur, India (2025)
 
 ---
 
